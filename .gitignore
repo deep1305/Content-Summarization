@@ -1,0 +1,9 @@
+.venv/
+*.egg-info
+
+*.zip
+artifacts/
+data/
+logs/
+__pycache__/
+notes.txt
